@@ -42,6 +42,7 @@ spec:
         - containerPort: 3000
 ```
 realize o apply
+
 <img width="411" height="85" alt="image" src="https://github.com/user-attachments/assets/c421749a-8477-4045-b7fd-6492e0ea1edd" />
 
 Para visualizar o deployment em modo gráfico utilize o dashboard do kubernetes que está disponível no minikube 
